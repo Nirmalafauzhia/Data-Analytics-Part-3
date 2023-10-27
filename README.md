@@ -49,6 +49,7 @@ distribution_channel : Booking distribution channel (TA - Travel Agents and TO -
 # 1.3 Data Profiling
 - Load Data
 - Check Data
+- After checking the data, there are columns that have missing values, there are  children, country, agent and company columns. Therefore, there is a need for a data cleaning process
 
 # 1.4 Data Cleansing
 - The data set is not clean. We have 4 features with missing values.
