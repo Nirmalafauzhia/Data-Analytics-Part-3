@@ -1,21 +1,46 @@
 # Data-Analytics-Part-3
 
 # 1. Dataset
-- This dataset related to the Health topic is produced by the Health Service and is released once a year.
-  
+- This data set contains booking information for a city hotel and a resort hotel and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. All personally identifying information has from the data.
+
 # 1.1 Data Understanding
-- This dataset contains data on the percentage of stunted toddlers based on districts/cities in West Java Province from 2014 to 2022.
-- Source Data: https://opendata.jabarprov.go.id/id/dataset/persentase-balita-stunting-berdasarkan-kabupatenkota-di-jawa-barat
-- The dataset has 8 column and 243 rows.
+- This data set contains booking information for a city hotel and a resort hotel and includes information.
+- Source Data: https://www.kaggle.com/jessemostipak/hotel-booking-demand
+- The dataset has 32 column and 119390 rows.
 - Data Dictionary:
-- kode_provinsi: states that the West Java Province code is in accordance with BPS provisions referring to the Central Statistics Agency Regulation Number 3 of 2019 with numeric data types.
-- nama_provinsi: states that the scope of the data comes from the West Java Province area in accordance with BPS provisions referring to the Central Statistics Agency Regulation Number 3 of 2019 with text data types.
-- kode_kabupaten_kota: states the code of each district and city in West Java Province in accordance with BPS provisions referring to the Central Statistics Agency Regulation Number 3 of 2019 with numeric data types.
-- nama_kabupaten_kota: menyatakan lingkup data berasal dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai penamaan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.
-- persentase_balita_stunting: states that the scope of data comes from every district and city in West Java Province according to the BPS designation referring to the Central Statistics Agency Regulation Number 3 of 2019 with text data type.
-- satuan: expresses the units of the percentage of stunted toddlers in percent with text data type.
-- tahun: states the year of data production with a numeric data type.
-  
+- hotel : Hotel categories (Resort Hotel and City Hotel)
+- is_canceled : Value indicating if the booking was canceled (1) or not (0)
+- lead_time : Number of days that elapsed between the entering date of the booking into the PMS and the arrival date
+- arrival_date_year : Year of the arrival date
+- arrival_date_month : Month of arrival date
+- arrival_date_week_number : Week number of year for arrival date 
+- arrival_date_day_of_month : Day of arrival date
+- stays_in_weekend_nights : Number of weekend nights (Saturday or Sunday) the guest stayed or booked to stay at the hotel
+- stays_in_week_nights : Number of week nights (Monday to Friday) the guest stayed or booked to stay at the hotel
+- adults : Number of adults
+- children : Number of children
+- babies : Number of babies
+- meal : Type of meal booked. Categories are presented in standard hospitality meal packages (Undefined/SC - no meal package, BB - Bed & Breakfast, HB - Half board, and FB - Full Board)
+- country : Country of origin
+- market_segment : Market segment designation (TA - Travel Agents and TO - Tour Operators)
+distribution_channel : Booking distribution channel (TA - Travel Agents and TO - Tour Operators)
+- is_repeated_guest : Value indicating if the bookings name was from a repeated gest (1) or not (0)
+- previous_cancellations : Number of previous bookings that were cancelled by the customer prior to the current booking
+- previous_bookings_not_cancelled : Number of previous bookings not cancelled by the customer prior to the current booking
+- reserved_room_type : Code of room type reserved. 
+- assigned_room_type : Code for the type of room assigned the the booking.
+- deposit_type : Indication on if the customer made a deposit to guarantee the booking (No Deposit, Non Refund, and Refundable)
+- booking_changes : Number of changes/amendments made to booking from the moment the booking was entered on the PMS until the moment of check in or cancellation
+- agent : ID of the travel agency that made the booking
+- company : ID of the company/entity that made the booking or responsible for praying the booking
+- days_in_waiting_list : Number of days the booking was in the waiting list before is was confirmed to the customer
+- customer _type : Type of booking (contract, group, transient, and transient-party)
+- adr : Average daily rate as defined by dividing the sum of all lodging transactions by the total number of staying nights
+- required_car_parking_spaces : Number of car parking spaces required by the customer
+- total_of_special_requests : Number of special requests made by the customer
+- reservation _status : Reservation las status (canceled, check out, and no show)
+- reservation _status_date : Date at which the last status was set.
+
 # 1.2 Data Preparation 
 - Code used:
 - Python version: 3.11.4 
