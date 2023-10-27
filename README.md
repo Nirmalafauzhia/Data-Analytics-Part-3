@@ -56,7 +56,7 @@ distribution_channel : Booking distribution channel (TA - Travel Agents and TO -
 - Children column contains the count of children, so we will replace all the missing values with the rounded mean value.
 - And our country column contains country codes representing different countries. It is a categorical feature so I will also replace it with the mode value.
 
-# 1.4 Exploratory Data Analysis and Data Storytelling
+# 1.5 Exploratory Data Analysis and Data Storytelling
 - Data 
 - Data
 - Data
