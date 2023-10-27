@@ -1,27 +1,29 @@
 # Data-Analytics-Part-3
 
-# Data Understanding
+# 1. Dataset
+
+# 1.1 Data Understanding
 -
 
-# Data Preparation 
+# 1.2 Data Preparation 
 - Code used:
 - Python version:
 - Packages: Pandas, Numpy, Matplotlib, Seaborn, Sklearn, and Features Engine
 
-# Data Cleansing
+# 1.3 Data Cleansing
 -
 
-# Exploratory Data Analysis
-1. Data
-2. Data
-3. Data
-4. Data
-5. Data
+# 1.4 Exploratory Data Analysis
+- Data
+- Data
+- Data
+- Data
+- Data
 
-# Responsible analytics practices
+# 2. Responsible analytics practices
 - The meaning of "Responsible analytics practices" are a set of principles and guidelines that organizations should follow to ensure that they are using data in a way that is ethical, fair, and transparent. These practices are important to protect the privacy and rights of individuals, and to build trust with customers and stakeholders.
 
-# A. Data privacy laws and best practices
+# 2.1 Data privacy laws and best practices
 - The meaning of" Data privacy laws and best practices" are Data privacy laws, also known as data protection laws or regulations, are legal frameworks that govern the collection, use, processing, storage, and sharing of personal data. These laws are designed to protect individuals' privacy by ensuring that organizations and entities handle their personal information responsibly and securely. Data privacy best practices are a set of guidelines and strategies that organizations and individuals can follow to protect personal information and comply with data privacy laws. These practices aim to ensure that data is handled with care, respecting the privacy rights and expectations of individuals. Here some keys point of Data privacy laws and best practices:
 
 1. Data Protection Regulation (GDPR)
@@ -50,7 +52,7 @@
 - Image example: https://getlogovector.com/pci-dss-compliant-logo-vector-svg/
 
 
-# B. Describe Best Practices for Responsible Data Handling: 
+# 2.2 Describe Best Practices for Responsible Data Handling: 
 - The meaning of "Describe best practices for responsible data handling" is to explain the best practices in responsible data handling. These best practices encompass the most effective and ethical ways of collecting, storing, securing, interpreting, and using data. The purpose of these practices is to protect individual privacy, ensure data security, prevent data misuse, and ensure that data is used in a legal and beneficial manner. This involves compliance with applicable data privacy laws and ethical guidelines in data usage. Here some keys point of Describe Best Practices for Responsible Data Handling:
 
 1. Methods of Handling PII (Personally Identifiable Information):
@@ -84,7 +86,7 @@
 - Image example: https://www.pewresearch.org/?attachment_id=415256
 
 
-# C. Given a scenario, describe types of bias that affect collection and interpretation of data
+# 2.3 Given a scenario, describe types of bias that affect collection and interpretation of data
 - It is important to recognize and address these biases in data collection and interpretation to ensure the integrity and validity of the findings. This can involve careful study design, transparent methodology, and rigorous data analysis techniques to mitigate bias as much as possible.
 
 1. Confirmation bias 
