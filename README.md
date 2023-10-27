@@ -103,9 +103,9 @@
 
 3. Motivational bias 
 - (is a type of bias that occurs when our motivations influence our collection or interpretation of data.)
-- Definition: Motivational bias is a type of bias that occurs when our motivations influence our collection or interpretation of data.
-- Examples: A researcher who is trying to prove a particular hypothesis may collect data in a way that is biased towards supporting their hypothesis. A company that is trying to sell a product may present data in a way that is biased towards making the product look more appealing.
-- Image example: https://www.frontiersin.org/articles/10.3389/fdata.2022.787421
+- Definition: A tendency to collect or interpret data in a way that supports one's desired outcome.
+- Example: A pharmaceutical company may design a clinical trial in a way that is biased in favor of its new drug. For example, the company may recruit participants who are more likely to respond favorably to the drug, or use a dosage that is higher than what is typically used in real-world practice.
+- Image example: https://www.nature.com/articles/s41591-022-02160-z
 
 4. Sampling bias 
 - (occurs when the sample of data collected is not representative of the population that it is intended to represent.)
