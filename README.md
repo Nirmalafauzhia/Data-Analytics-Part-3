@@ -110,8 +110,8 @@
 4. Sampling bias 
 - (occurs when the sample of data collected is not representative of the population that it is intended to represent.)
 - Definition: Sampling bias occurs when the sample of data collected is not representative of the population that it is intended to represent.
-- Examples: A poll that only surveys people who are registered to vote is likely to be biased towards the views of registered voters. A study that only looks at people who are hospitalized with a particular disease is likely to be biased towards the views of people who are hospitalized with that disease.
-- Image example: https://www.shopify.com/id/blog/206934729-how-to-start-a-clothing-line
+- Examples:The child is only scooping out the red jelly beans. This means that the sample of jelly beans that the child collects will not be representative of the entire bowl of jelly beans, but will be biased towards red jelly beans. Sampling bias is a serious problem in research because it can lead to inaccurate results. It is important to be aware of sampling bias and to take steps to avoid it when designing and conducting research studies.
+- Image example: https://greataussiesweetcompany.com.au/products/jelly-belly-tutti-frutti
 
 
 5. Selecting visualizations/data representations to avoid bias
