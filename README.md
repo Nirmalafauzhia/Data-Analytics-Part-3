@@ -1,19 +1,30 @@
 # Data-Analytics-Part-3
 
 # 1. Dataset
-
+- This dataset related to the Health topic is produced by the Health Service and is released once a year.
+  
 # 1.1 Data Understanding
--
-
+- This dataset contains data on the percentage of stunted toddlers based on districts/cities in West Java Province from 2014 to 2022.
+- Source Data: https://opendata.jabarprov.go.id/id/dataset/persentase-balita-stunting-berdasarkan-kabupatenkota-di-jawa-barat
+- The dataset has 8 column and 243 rows.
+- Data Dictionary:
+- kode_provinsi: states that the West Java Province code is in accordance with BPS provisions referring to the Central Statistics Agency Regulation Number 3 of 2019 with numeric data types.
+- nama_provinsi: states that the scope of the data comes from the West Java Province area in accordance with BPS provisions referring to the Central Statistics Agency Regulation Number 3 of 2019 with text data types.
+- kode_kabupaten_kota: states the code of each district and city in West Java Province in accordance with BPS provisions referring to the Central Statistics Agency Regulation Number 3 of 2019 with numeric data types.
+- nama_kabupaten_kota: menyatakan lingkup data berasal dari setiap kabupaten dan kota di Provinsi Jawa Barat sesuai penamaan BPS merujuk pada aturan Peraturan Badan Pusat Statistik Nomor 3 Tahun 2019 dengan tipe data teks.
+- persentase_balita_stunting: states that the scope of data comes from every district and city in West Java Province according to the BPS designation referring to the Central Statistics Agency Regulation Number 3 of 2019 with text data type.
+- satuan: expresses the units of the percentage of stunted toddlers in percent with text data type.
+- tahun: states the year of data production with a numeric data type.
+  
 # 1.2 Data Preparation 
 - Code used:
-- Python version:
-- Packages: Pandas, Numpy, Matplotlib, Seaborn, Sklearn, and Features Engine
+- Python version: 3.11.4 
+- Packages: Anaconda, Pandas, Numpy, Matplotlib, Seaborn, Sklearn, and Features Engine
 
 # 1.3 Data Cleansing
--
+- The data set is clean.
 
-# 1.4 Exploratory Data Analysis
+# 1.4 Exploratory Data Analysis and Data Storytelling
 - Data
 - Data
 - Data
@@ -29,7 +40,8 @@
 1. Data Protection Regulation (GDPR)
 - Definition: General Data Protection Regulation (GDPR) is a regulation in the European Union that sets out strict rules for the collection and use of personal data. The GDPR applies to all organizations that process personal data of individuals located in the European Union, regardless of where the organization is located.
 - Example: A company that collects data from customers in the European Union must comply with the GDPR. This means that the company must obtain consent from customers before collecting their data, and it must provide customers with access to their data and the ability to correct any inaccuracies.
-- Image example: https://www.loginradius.com/compliance-list/gdpr-compliant/
+- Image example: ![WhatsApp Image 2023-10-27 at 19 42 14_fb188c33](https://github.com/Nirmalafauzhia/Data-Analytics-Part-3/assets/146448514/26c08dcb-d77a-4e7d-96e1-6668398ad954)
+
 
 2. Family Educational Rights and Privacy Act (FERPA)
 - Definition: Family Educational Rights and Privacy Act (FERPA) is a US law that protects the privacy of student education records. FERPA gives parents and students certain rights over their educational records, including the right to access, correct, and delete their records.
