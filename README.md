@@ -51,12 +51,14 @@
 3. Health Insurance Portability and Accountability Act (HIPAA)
 - Definition: Health Insurance Portability and Accountability Act (HIPAA) is a US law that protects the privacy of health information. HIPAA applies to healthcare providers, healthcare insurance companies, and other organizations that handle health information.
 - Example: A doctor's office that collects data from patients must comply with HIPAA. This means that the doctor's office must obtain consent from patients before collecting their data, and it must protect the data from unauthorized access or use.
-- Image example: ![WhatsApp Image 2023-10-27 at 19 42 14_6455942a](https://github.com/Nirmalafauzhia/Data-Analytics-Part-3/assets/146448514/55329a2b-0074-4236-abcd-28dbcd86ded6)
+- Image example:
+- ![WhatsApp Image 2023-10-27 at 19 42 14_6455942a](https://github.com/Nirmalafauzhia/Data-Analytics-Part-3/assets/146448514/55329a2b-0074-4236-abcd-28dbcd86ded6)
 
 4.Institutional Review Board (IRB)
 - Definition: Institutional Review Board (IRB) is a committee that reviews research proposals to ensure that they protect the rights and welfare of human subjects. IRBs are required to review research proposals that involve human subjects, including research that uses personal data.
 - Example: A university that is conducting research on student behavior must obtain approval from an IRB before collecting data from students. This ensures that the research is conducted in a way that protects the privacy and rights of the students.
-- Image example: ![WhatsApp Image 2023-10-27 at 19 42 14_5c9a6fe7](https://github.com/Nirmalafauzhia/Data-Analytics-Part-3/assets/146448514/bf2e206a-6577-4c06-a011-27bdbe070e71)
+- Image example:
+- ![WhatsApp Image 2023-10-27 at 19 42 14_5c9a6fe7](https://github.com/Nirmalafauzhia/Data-Analytics-Part-3/assets/146448514/bf2e206a-6577-4c06-a011-27bdbe070e71)
 
 5.Payment Card Industry Data Security Standard (PCI DSS)
 - Definition: Payment Card Industry Data Security Standard (PCI DSS)is a set of security standards for organizations that process credit and debit card payments. The PCI DSS requires organizations to implement certain security measures to protect credit and debit card data from unauthorized access, use, or disclosure.]
@@ -69,12 +71,14 @@
 1. Methods of Handling PII (Personally Identifiable Information):
 - Definition: PII refers to information that can be used to identify individuals, such as names, addresses, ID numbers, or phone numbers. Best practices involve strict protection of PII, including data encryption when stored and transmitted. 
 - Example: E-commerce Shopee should encrypt customer information, such as social security numbers, when it's stored in their databases. Access to this data should be restricted to authorized personnel only. 
-- Image example: ![WhatsApp Image 2023-10-27 at 19 42 15_4fe32765](https://github.com/Nirmalafauzhia/Data-Analytics-Part-3/assets/146448514/aa0f2e93-3fa7-4186-8acc-deb02c3eaafc)
+- Image example:
+- ![WhatsApp Image 2023-10-27 at 19 42 15_4fe32765](https://github.com/Nirmalafauzhia/Data-Analytics-Part-3/assets/146448514/aa0f2e93-3fa7-4186-8acc-deb02c3eaafc)
 
 2. Securing Data:
 - Definition: Data security involves using encryption, firewalls, limited access, and active monitoring to protect data from unauthorized access.
 - Example: MyEduSolve should use encryption to protect sensitive financial data during transmission, ensuring that even if intercepted, the data remains confidential and secure.
-- Image example: ![WhatsApp Image 2023-10-27 at 19 42 15_55849cc4](https://github.com/Nirmalafauzhia/Data-Analytics-Part-3/assets/146448514/5a32fd56-46d6-4ac9-ac33-cb370ca7e2bb)
+- Image example:
+- ![WhatsApp Image 2023-10-27 at 19 42 15_55849cc4](https://github.com/Nirmalafauzhia/Data-Analytics-Part-3/assets/146448514/5a32fd56-46d6-4ac9-ac33-cb370ca7e2bb)
   
 3. Protecting Anonymity Within Small Data Sets:
 - Definition: When working with small datasets that may have the potential to identify individuals, it's essential to carefully design the data to maintain anonymity.
