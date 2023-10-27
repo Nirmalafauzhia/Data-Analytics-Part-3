@@ -44,7 +44,7 @@ distribution_channel : Booking distribution channel (TA - Travel Agents and TO -
 # 1.2 Data Preparation 
 - Code used:
 - Python version: 3.11.4 
-- Packages: Anaconda, Pandas, Numpy, Matplotlib, Seaborn, Sklearn, and Features Engine
+- Packages: Pandas, Numpy, Matplotlib, and Seaborn.
 
 # 1.3 Data Cleansing
 - The data set is not clean. We have 4 features with missing values.
@@ -52,8 +52,12 @@ distribution_channel : Booking distribution channel (TA - Travel Agents and TO -
 - Children column contains the count of children, so we will replace all the missing values with the rounded mean value.
 - And our country column contains country codes representing different countries. It is a categorical feature so I will also replace it with the mode value.
 
+# 1.4 Data Profiling
+- Load Data
+- Check Data
+
 # 1.4 Exploratory Data Analysis and Data Storytelling
-- Data
+- Data 
 - Data
 - Data
 - Data
