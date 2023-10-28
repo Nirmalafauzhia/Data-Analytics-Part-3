@@ -61,11 +61,20 @@ distribution_channel : Booking distribution channel (TA - Travel Agents and TO -
 - The data in the Company column have missing value and because the percentage of null values is greater than 50, the column must be removed or deleted.
 
 # 1.5 Exploratory Data Analysis and Data Storytelling
-- Data 
-- Data
-- Data
-- Data
-- Data
+- 
+- From this chart, it can be seen that there was more than double bookings were made in 2016, compared to the previous year, but decrease in the number of visitors coming from 2016 to 2017 for each hotel. There was a decrease of around 42.5% in Resort Hotels compared to the previous year, while in City Hotels there was a decrease of around 42.9% from the previous year. This decline figure almost reached half of the previous year's visits. Therefore, hotels need to make efforts to increase the number of visitors in the following year, for example by providing attractive discounts and promotions.
+
+-
+- The data in the Agent column is in categorical form (ID of the travel agency that made the booking). Therefore, missing values can be handled by replacing them with the mode.
+
+- 
+- Based on data, it can be seen that there are 2 types of hotels, namely city hotels and resort hotels and from all visitors it can be seen that more people choose to stay at city hotels at 61% of all visitors and for resort hotels themselves there are 39% of all visitors who choose to stay at there.
+
+-
+- Based on data, 77% of visitors ordered BB (Bed & Breakfast) meals, while 10% of visitors ordered SC (Self-Catering) or HB (Half board (breakfast and one other meal – usually dinner)), the rest ordered full board, and there were visitors who did not order food.
+
+-
+- Based on this data, it shows the number of hotel orders every month. Based on this, August is the month with the most visitors (12.8%) and January is the month with the fewest visitors (5.3%), January is only half as many as August. So hotels must pay attention to what must be done so that visitors can increase.
 
 # 2. Responsible analytics practices
 - The meaning of "Responsible analytics practices" are a set of principles and guidelines that organizations should follow to ensure that they are using data in a way that is ethical, fair, and transparent. These practices are important to protect the privacy and rights of individuals, and to build trust with customers and stakeholders.
