@@ -70,10 +70,10 @@ distribution_channel : Booking distribution channel (TA - Travel Agents and TO -
 - ![WhatsApp Image 2023-10-28 at 10 18 54_3db1665d](https://github.com/Nirmalafauzhia/Data-Analytics-Part-3/assets/146448514/9df5e745-841d-44f4-bae8-c316cb6b50da)
 - Based on data, it can be seen that there are 2 types of hotels, namely city hotels and resort hotels and from all visitors it can be seen that more people choose to stay at city hotels at 61% of all visitors and for resort hotels themselves there are 39% of all visitors who choose to stay at there.
   
-- ![WhatsApp Image 2023-10-28 at 10 19 53_b04e5368](https://github.com/Nirmalafauzhia/Data-Analytics-Part-3/assets/146448514/bfff2c70-907f-4801-a42e-785d7e9d83d8)
-- Based on data, 77% of visitors ordered BB (Bed & Breakfast) meals, while 10% of visitors ordered SC (Self-Catering) or HB (Half board (breakfast and one other meal – usually dinner)), the rest ordered full board, and there were visitors who did not order food.
+- ![WhatsApp Image 2023-10-28 at 13 13 06_95bced09](https://github.com/Nirmalafauzhia/Data-Analytics-Part-3/assets/146448514/331540c6-ef09-40b2-8f30-fbb774673e3c)
+- Based on data, 77% of visitors ordered BB (Bed & Breakfast) meals, while 10% of visitors ordered SC (Self-Catering) or HB (Half board (breakfast and one other meal – usually dinner)), the rest ordered full board, and there were visitors who did not order food. 
   
-- ![WhatsApp Image 2023-10-28 at 10 18 54_f039c4e2](https://github.com/Nirmalafauzhia/Data-Analytics-Part-3/assets/146448514/2517ba09-71ad-4b6b-9514-08e65142e92d)
+- ![WhatsApp Image 2023-10-28 at 13 13 06_cbf8e1ff](https://github.com/Nirmalafauzhia/Data-Analytics-Part-3/assets/146448514/8fd36bad-fe48-4857-94a2-f592e6db92cf)
 - Based on this data, it shows the number of hotel orders every month. Based on this, August is the month with the most visitors (12.8%) and January is the month with the fewest visitors (5.3%), January is only half as many as August. So hotels must pay attention to what must be done so that visitors can increase.
 
 # 2. Responsible analytics practices
