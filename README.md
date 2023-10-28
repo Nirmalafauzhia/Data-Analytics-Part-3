@@ -1,4 +1,4 @@
-# Data-Analytics-Part-3
+    # Data-Analytics-Part-3
 
 # 1. Dataset
 - This data set contains booking information for a city hotel and a resort hotel and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. All personally identifying information has from the data.
@@ -47,15 +47,18 @@ distribution_channel : Booking distribution channel (TA - Travel Agents and TO -
 - Packages: Pandas, Numpy, Matplotlib, and Seaborn.
 
 # 1.3 Data Profiling
-- Load Data
-- Check Data
+- Load the Data
+- Check the Data
 - After checking the data, there are columns that have missing values, there are  children, country, agent and company columns. Therefore, there is a need for a data cleaning process
 
 # 1.4 Data Cleansing
+- Duplicate data can have a significant impact on the data cleansing process. Duplicate data cted.an skew prediction results, contaminate the training data with the test data, or vice versa.
+- Therefore, it is important to check and remove duplicates before performing any data analysis or modeling.
 - The data set is not clean. We have 4 features with missing values.
-- In the agent and the company column, we have id_number for each agent or company, so for all the missing values, we will just replace it with 0.
-- Children column contains the count of children, so we will replace all the missing values with the rounded mean value.
-- And our country column contains country codes representing different countries. It is a categorical feature so I will also replace it with the mode value.
+- The data in the Age column is in numerical form with non-normal data distribution or skewness. Therefore, missing values can be handled by replacing them with medians.
+- The data in the Country column is in categorical (string) form. Therefore, missing values can be handled by replacing them with the mode. 
+- The data in the Agent column is in categorical form (ID of the travel agency that made the booking). Therefore, missing values can be handled by replacing them with the mode.
+-
 
 # 1.5 Exploratory Data Analysis and Data Storytelling
 - Data 
