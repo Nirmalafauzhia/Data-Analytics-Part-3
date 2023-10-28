@@ -58,7 +58,7 @@ distribution_channel : Booking distribution channel (TA - Travel Agents and TO -
 - The data in the Age column is in numerical form with non-normal data distribution or skewness. Therefore, missing values can be handled by replacing them with medians.
 - The data in the Country column is in categorical (string) form. Therefore, missing values can be handled by replacing them with the mode. 
 - The data in the Agent column is in categorical form (ID of the travel agency that made the booking). Therefore, missing values can be handled by replacing them with the mode.
--
+- The data in the Company column have missing value and because the percentage of null values is greater than 50, the column must be removed or deleted.
 
 # 1.5 Exploratory Data Analysis and Data Storytelling
 - Data 
